@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PhotoSelection\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\classes-49cb37aee458fab65afe1fe295ec351afe22546b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-4a529601bbc8dd40cdfe660edb137c5668edaf8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-69d2d3c27627661806f0bd051a18a12cc184adc9.jar" />
+    </item>
+    <item
+        jar="E:\PhotoSelection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\classes-09746784fda154f33b2de865fc39394f6cea43c6.jar" />
+    </item>
+    <item
+        jar="E:\PhotoSelection\app\libs\universal-image-loader-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fdd3122277e882773ec2035d2ab86abd39d8640d">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.0-f2d79d7d7b361bfe1f762433fbfbcfa262fb4eec.jar" />
+    </item>
+    <item
+        jar="E:\PhotoSelection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-1a076e34ee5f20d6264ce47f43a49e1090a2a0ea.jar" />
+    </item>
+    <item
+        jar="E:\PhotoSelection\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\classes-5aa174f4b88c7156e445c9822cc8d205b667c56d.jar" />
+    </item>
+    <item
+        jar="E:\PhotoSelection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\PhotoSelection\app\build\intermediates\pre-dexed\debug\classes-565246550b1db43079fb5243120040478a73760d.jar" />
+    </item>
+
+</items>

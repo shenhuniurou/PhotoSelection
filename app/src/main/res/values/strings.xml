@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoSelection</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gallery">多选图片</string>
+</resources>
